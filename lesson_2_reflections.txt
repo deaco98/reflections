@@ -6,3 +6,22 @@ the staging area is temporary
 it allows you to take away and
 add files before committing them
 
+add only the files that have changed
+to the staging area
+
+when adding a new feature that you're
+not sure you want or that you're not
+sure will work. branches would make it
+so you don't have to mess up your main
+version
+
+by providing a visual representation
+
+the result is the master branch get the
+changes that the merged branch had. it
+is represented like that in the diagram
+because both branches come together
+
+automatic merging saves time since you
+don't have to resolve any issues, manual
+merges ensures that there will be no errors
