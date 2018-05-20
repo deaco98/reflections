@@ -1,0 +1,9 @@
+it creates the .git directory
+you need to do it so you can
+create commits
+
+the staging area is temporary
+it allows you to take away and
+add files before committing them
+
+test2
