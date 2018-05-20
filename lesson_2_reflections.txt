@@ -6,4 +6,3 @@ the staging area is temporary
 it allows you to take away and
 add files before committing them
 
-test2
